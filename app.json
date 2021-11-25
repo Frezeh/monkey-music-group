@@ -1,0 +1,17 @@
+{
+  "name": "Monkey Music Group",
+  "displayName": "Monkey Music Group",
+  "expo": {
+    "name": "Monkey Music Group",
+    "slug": "monkey-music-group",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/images/splashScreen.png",
+      "backgroundColor": "#1B1212"
+    },
+    "description": "Task 1"
+  }
+}
